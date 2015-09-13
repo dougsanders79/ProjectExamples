@@ -1,0 +1,18 @@
+---
+title: "Project Examples"
+author: "Doug Sanders"
+date: "September 13, 2015"
+output: html_document
+---
+
+# Project Examples for Doug Sanders #
+
+### Machine Learning Project - Coursera ###
+
+[hosted on github pages](http://dougsanders79.github.io/Coursera_MLproject/Machine_Learning_Project.html)
+
+### Public health and economic impact analysis of NOAA storm events database ###
+
+[hosted on rPUBS](http://rpubs.com/DougSandersCA/Reproducible_Research)
+
+
