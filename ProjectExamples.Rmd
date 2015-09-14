@@ -15,4 +15,8 @@ output: html_document
 
 [hosted on rPUBS](http://rpubs.com/DougSandersCA/Reproducible_Research)
 
+### Regresson modeling course project ###
+
+[hosted on rPUBS](http://rpubs.com/DougSandersCA/Reproducible_Research)
+
 
