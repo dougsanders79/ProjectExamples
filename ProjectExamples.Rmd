@@ -4,16 +4,18 @@ author: "Doug Sanders"
 date: "September 13, 2015"
 output: html_document
 ---
+### Biological network web tool for UCSF ###
+[Web tool hosted on shinyapps.io](https://DougSanders79.shinyapps.io/Shiny_CytoscapeJS_Demo)
 
-# Project Examples for Doug Sanders #
+[Code for Network creation and web tool on Github](https://github.com/dougsanders79/Shiny_CytoscapeJS_Demo.git)
 
 ### Machine Learning Project - Coursera ###
 
-[hosted on github pages](http://dougsanders79.github.io/Coursera_MLproject/Machine_Learning_Project.html)
+[Hosted on github pages](http://dougsanders79.github.io/Coursera_MLproject/Machine_Learning_Project.html)
 
 ### Public health and economic impact analysis of NOAA storm events database ###
 
-[hosted on rPUBS](http://rpubs.com/DougSandersCA/Reproducible_Research)
+[Hosted on rPUBS](http://rpubs.com/DougSandersCA/Reproducible_Research)
 
 ### Regresson modeling course project ###
 
