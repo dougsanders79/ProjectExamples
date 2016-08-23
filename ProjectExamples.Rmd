@@ -1,18 +1,43 @@
 ---
 title: "Project Examples"
 author: "Doug Sanders"
-date: "September 13, 2015"
+date: "August, 2016"
 output: html_document
 ---
+### Biological network web tool for UCSF ###
+[Latest version on UCSF shinyapps.io](https://kroganqb3.shinyapps.io/bionena/)
 
-# Project Examples for Doug Sanders #
+[Code for Network creation and web tool on Github](https://github.com/dougsanders79/Shiny_CytoscapeJS_Demo.git)
+
+This tool uses Shiny to connect R data manipulations to an html rendering using Cytoscape.JS (javascript).  The capabilities of Cytoscape.JS were needed over similar networking packages native to R. The complex attributes of the desired graphical entites required a fair bit of r wrangling.  Most of the shiny control widgets are dynamic to the the database and network selection requiring a bit of work coding in shiny.
+
+### JHU Data science Capstone Project ###
+
+[Hosted on rPUBS](http://rpubs.com/DougSandersCA/203818)
+
+Investigation of the effect of noise levels and service on the average star ratings of Restaurants. (Yelp data set)
+
 
 ### Machine Learning Project - Coursera ###
 
-[hosted on github pages](http://dougsanders79.github.io/Coursera_MLproject/Machine_Learning_Project.html)
+[Hosted on github pages](http://dougsanders79.github.io/Coursera_MLproject/Machine_Learning_Project.html)
+This machine learning example uses motion sensor data of human subjects doing exercises to predict proper technique.  
+
+
+### Regresson modeling course project ###
+
+[Hosted on rPUBS](http://rpubs.com/DougSandersCA/203814)
+
+Using the mtcars data set regression model is used to explore the relationship between fuel economy and transmission type.
 
 ### Public health and economic impact analysis of NOAA storm events database ###
 
-[hosted on rPUBS](http://rpubs.com/DougSandersCA/Reproducible_Research)
+[Hosted on rPUBS](http://rpubs.com/DougSandersCA/Reproducible_Research)
 
+A very rough historical data set is used to quantify economic and population health impacts do to differnt storm even types.   
 
+### iOS app "RitmoTime Stroke Monitor" ###
+
+[RitmoTime Stroke Monitor](https://itunes.apple.com/us/app/ritmotime-free-rowing-rp3/id359292837?mt=8)
+
+For over 5 years this app has been serving the rowing community with rowing metric feedback and workout recording.  This app was conceived of, developed and maintained by two physics trained aerospace engineers who started with no Objective C or Cocoa/Xcode training or experience.  Of the 150+ iOS apps for sale using "rowing" as the keyword only 3 offer stroke rate from boat motion (accelerometer).  This is because a satisfactory algorithm requires more of a signal processing and physics / mechanics background since a simple fourier transform will not provide the needed responsiveness.  This app works in any orientation and provides an automatic timer, two features not offered by our competiton.
