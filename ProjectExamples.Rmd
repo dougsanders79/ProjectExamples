@@ -5,7 +5,7 @@ date: "August, 2016"
 output: html_document
 ---
 ### Biological network web tool for UCSF ###
-[Latest version on UCSF shinyapps.io](https://kroganqb3.shinyapps.io/bionena/)
+[Demo version on shinyapps.io](https://dougsanders79.shinyapps.io/Shiny_CytoscapeJS_Demo/)
 
 [Code for Network creation and web tool on Github](https://github.com/dougsanders79/Shiny_CytoscapeJS_Demo.git)
 
