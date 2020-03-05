@@ -1,11 +1,19 @@
 ---
 title: "Project Examples"
 author: "Doug Sanders"
-date: "September 13, 2015"
+date: "March 5, 2020"
 output: html_document
 ---
+
 ### Biological network web tool for UCSF ###
 [Web tool hosted on shinyapps.io](https://DougSanders79.shinyapps.io/Shiny_CytoscapeJS_Demo)
+
+### ShipFEM automesher ###
+#### This is a web page describing a tool created to make Ship FEMS.  Its not biology, but 
+#### it took a lot of R and C++ integration to make this work.
+
+[Web page of tool on shinyapps.io](https://dougsanders79.shinyapps.io/DiscoverShipFEM/)
+
 
 [Code for Network creation and web tool on Github](https://github.com/dougsanders79/Shiny_CytoscapeJS_Demo.git)
 
