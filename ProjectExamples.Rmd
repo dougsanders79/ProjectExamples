@@ -1,23 +1,31 @@
 ---
 title: "Project Examples"
 author: "Doug Sanders"
-date: "September 13, 2015"
+date: "March 5, 2020"
 output: html_document
 ---
-### Biological network web tool for UCSF ###
+
+### Biological network web tool for UCSF (2015) ###
 [Web tool hosted on shinyapps.io](https://DougSanders79.shinyapps.io/Shiny_CytoscapeJS_Demo)
+
+### ShipFEM Automesher (2017-2020) ###
+#### This is a web page describing a tool created to make Ship FEMS.  Its not biology, but 
+#### it took a lot of R and C++ integration to make this work.
+
+[Web page of tool on shinyapps.io](https://dougsanders79.shinyapps.io/DiscoverShipFEM/)
+
 
 [Code for Network creation and web tool on Github](https://github.com/dougsanders79/Shiny_CytoscapeJS_Demo.git)
 
-### Machine Learning Project - Coursera ###
+### Machine Learning Project - Coursera (2015) ###
 
 [Hosted on github pages](http://dougsanders79.github.io/Coursera_MLproject/Machine_Learning_Project.html)
 
-### Public health and economic impact analysis of NOAA storm events database ###
+### Public health and economic impact analysis of NOAA storm events database (2015) ###
 
 [Hosted on rPUBS](http://rpubs.com/DougSandersCA/Reproducible_Research)
 
-### Regresson modeling course project ###
+### Regresson modeling course project (2015) ###
 
 [hosted on rPUBS](http://rpubs.com/DougSandersCA/Reproducible_Research)
 
