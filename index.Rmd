@@ -11,6 +11,9 @@ output: html_document
 ### Video demo of ShipApp geometry shiny app (2020) 
 [video demo of Shipapp interactive geometry shiny app on shinyapps.io](https://www.youtube.com/watch?v=8yaXNiy5JcI&feature=youtu.be)
 
+### Another Video demo of ShipApp shiny app (2020) 
+[video demo of Shipapp shiny app on shinyapps.io](https://www.youtube.com/watch?v=Cr7Qf3qcymw&feature=youtu.be)
+
 ### ShipFEM Automesher - App website (2016-2020) ###
 #### This is a web page describing a tool created to make Ship FEMS.  Its not biology, but 
 #### it took a lot of R and C++ integration to make this work.
